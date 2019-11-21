@@ -1,0 +1,6 @@
+framework module izlcore {
+  umbrella header "izlcore-umbrella.h"
+
+  export *
+  module * { export * }
+}

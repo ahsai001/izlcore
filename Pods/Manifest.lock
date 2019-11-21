@@ -1,0 +1,16 @@
+PODS:
+  - izlcore (0.0.2)
+
+DEPENDENCIES:
+  - izlcore (from `.`)
+
+EXTERNAL SOURCES:
+  izlcore:
+    :path: "."
+
+SPEC CHECKSUMS:
+  izlcore: 2c3522e44b9b23fa1525e1e5c5cb59b562b859f8
+
+PODFILE CHECKSUM: a36cbaee25c77b7727ad84212cc1864e49047de8
+
+COCOAPODS: 1.6.1
