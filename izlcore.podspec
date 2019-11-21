@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name          = "izlcore"
-s.version       = "0.0.1"
+s.version       = "0.0.2"
 s.summary       = "ZaitunLabs Core Library"
 s.description   = "ZaitunLabs Core Library for IOS"
 s.homepage      = "https://github.com/ahsai001/"
